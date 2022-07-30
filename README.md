@@ -1,2 +1,3 @@
 # gmcmd
-Parses a "/cmd args" game command and calls a registered function with the args
+a lua module for parsing a "/cmd args" game command, registering a function
+for the command, and calling the registered function with the parsed args.
